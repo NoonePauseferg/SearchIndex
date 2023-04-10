@@ -1,4 +1,4 @@
-Hi, im Vorobev Vadim and this is my hw
+Hi, im Vorobev Vadim and this is my search index project
 
 to start:
     - run index.sh
